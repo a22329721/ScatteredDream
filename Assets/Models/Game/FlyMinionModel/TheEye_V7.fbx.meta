@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: eb71fbb0d70901341a86f5b522fa368b
+timeCreated: 1456668150
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Angry
+    100002: Armature
+    100004: B1-1.L
+    100006: B1-1.R
+    100008: B1-2.L
+    100010: B1-2.R
+    100012: BClaw.L
+    100014: BClaw.R
+    100016: BL-1.L
+    100018: BL-1.R
+    100020: BL-2.L
+    100022: BL-2.R
+    100024: BL-3.L
+    100026: BL-3.L_end
+    100028: BL-3.R
+    100030: BL-3.R_end
+    100032: BM-1.L
+    100034: BM-1.R
+    100036: BM-2.L
+    100038: BM-2.R
+    100040: BM-3.L
+    100042: BM-3.L_end
+    100044: BM-3.R
+    100046: BM-3.R_end
+    100048: Bone
+    100050: Bone.001
+    100052: Bone.002
+    100054: Bone.003
+    100056: Bone.004
+    100058: Bone.004_end
+    100060: BR-1.L
+    100062: BR-1.R
+    100064: BR-2.L
+    100066: BR-2.R
+    100068: BR-3.L
+    100070: BR-3.L_end
+    100072: BR-3.R
+    100074: BR-3.R_end
+    100076: Eye_1
+    100078: Eye_2
+    100080: EyeB
+    100082: EyeB_end
+    100084: EyeBody
+    100086: EyeBone
+    100088: MainControl.L
+    100090: MainControl.R
+    100092: Root
+    100094: shepard.L
+    100096: shepard.R
+    100098: shepardl
+    100100: shepardl.002
+    100102: shepardl.002_end
+    100104: shepardl_end
+    100106: shepardm
+    100108: shepardm.002
+    100110: shepardm.002_end
+    100112: shepardm_end
+    100114: shepardR.L
+    100116: shepardR.L_end
+    100118: shepardR.R
+    100120: shepardR.R_end
+    100122: Tail
+    100124: //RootNode
+    100126: Wing_L
+    400000: Angry
+    400002: Armature
+    400004: B1-1.L
+    400006: B1-1.R
+    400008: B1-2.L
+    400010: B1-2.R
+    400012: BClaw.L
+    400014: BClaw.R
+    400016: BL-1.L
+    400018: BL-1.R
+    400020: BL-2.L
+    400022: BL-2.R
+    400024: BL-3.L
+    400026: BL-3.L_end
+    400028: BL-3.R
+    400030: BL-3.R_end
+    400032: BM-1.L
+    400034: BM-1.R
+    400036: BM-2.L
+    400038: BM-2.R
+    400040: BM-3.L
+    400042: BM-3.L_end
+    400044: BM-3.R
+    400046: BM-3.R_end
+    400048: Bone
+    400050: Bone.001
+    400052: Bone.002
+    400054: Bone.003
+    400056: Bone.004
+    400058: Bone.004_end
+    400060: BR-1.L
+    400062: BR-1.R
+    400064: BR-2.L
+    400066: BR-2.R
+    400068: BR-3.L
+    400070: BR-3.L_end
+    400072: BR-3.R
+    400074: BR-3.R_end
+    400076: Eye_1
+    400078: Eye_2
+    400080: EyeB
+    400082: EyeB_end
+    400084: EyeBody
+    400086: EyeBone
+    400088: MainControl.L
+    400090: MainControl.R
+    400092: Root
+    400094: shepard.L
+    400096: shepard.R
+    400098: shepardl
+    400100: shepardl.002
+    400102: shepardl.002_end
+    400104: shepardl_end
+    400106: shepardm
+    400108: shepardm.002
+    400110: shepardm.002_end
+    400112: shepardm_end
+    400114: shepardR.L
+    400116: shepardR.L_end
+    400118: shepardR.R
+    400120: shepardR.R_end
+    400122: Tail
+    400124: //RootNode
+    400126: Wing_L
+    4300000: Angry
+    4300002: Eye_1
+    4300004: Eye_2
+    4300006: EyeBody
+    4300008: Wing_L
+    4300010: Tail
+    7400000: Armature|Attack
+    7400002: Armature|Damaged
+    7400004: Armature|Fireball
+    7400006: Armature|Idle
+    7400008: Armature|Idle.001
+    9500000: //RootNode
+    13700000: Angry
+    13700002: Eye_1
+    13700004: Eye_2
+    13700006: EyeBody
+    13700008: Tail
+    13700010: Wing_L
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Attack
+      takeName: Armature|Attack
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angry
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/EyeBone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB/EyeB_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L/BL-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L/BM-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L/BR-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl/shepardl_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm/shepardm_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L/shepardR.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R/BL-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R/BM-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R/BR-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002/shepardl.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002/shepardm.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R/shepardR.R_end
+        weight: 1
+      - path: Eye_1
+        weight: 1
+      - path: Eye_2
+        weight: 1
+      - path: EyeBody
+        weight: 1
+      - path: Tail
+        weight: 1
+      - path: Wing_L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Damaged
+      takeName: Armature|Damaged
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angry
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/EyeBone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB/EyeB_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L/BL-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L/BM-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L/BR-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl/shepardl_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm/shepardm_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L/shepardR.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R/BL-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R/BM-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R/BR-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002/shepardl.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002/shepardm.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R/shepardR.R_end
+        weight: 1
+      - path: Eye_1
+        weight: 1
+      - path: Eye_2
+        weight: 1
+      - path: EyeBody
+        weight: 1
+      - path: Tail
+        weight: 1
+      - path: Wing_L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Fireball
+      takeName: Armature|Fireball
+      firstFrame: 0
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angry
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/EyeBone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB/EyeB_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L/BL-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L/BM-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L/BR-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl/shepardl_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm/shepardm_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L/shepardR.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R/BL-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R/BM-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R/BR-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002/shepardl.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002/shepardm.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R/shepardR.R_end
+        weight: 1
+      - path: Eye_1
+        weight: 1
+      - path: Eye_2
+        weight: 1
+      - path: EyeBody
+        weight: 1
+      - path: Tail
+        weight: 1
+      - path: Wing_L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 241
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angry
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/EyeBone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB/EyeB_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L/BL-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L/BM-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L/BR-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl/shepardl_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm/shepardm_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L/shepardR.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R/BL-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R/BM-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R/BR-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002/shepardl.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002/shepardm.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R/shepardR.R_end
+        weight: 1
+      - path: Eye_1
+        weight: 1
+      - path: Eye_2
+        weight: 1
+      - path: EyeBody
+        weight: 1
+      - path: Tail
+        weight: 1
+      - path: Wing_L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idle.001
+      takeName: Armature|Idle.001
+      firstFrame: 0
+      lastFrame: 168
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angry
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/EyeBone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Armature/Root/EyeBone/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB
+        weight: 1
+      - path: Armature/Root/EyeBone/EyeB/EyeB_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BL-1.L/BL-2.L/BL-3.L/BL-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BM-1.L/BM-2.L/BM-3.L/BM-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/BR-1.L/BR-2.L/BR-3.L/BR-3.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardl/shepardl_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardm/shepardm_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.L/B1-1.L/B1-2.L/BClaw.L/shepard.L/shepardR.L/shepardR.L_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BL-1.R/BL-2.R/BL-3.R/BL-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BM-1.R/BM-2.R/BM-3.R/BM-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/BR-1.R/BR-2.R/BR-3.R/BR-3.R_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardl.002/shepardl.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardm.002/shepardm.002_end
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R
+        weight: 1
+      - path: Armature/Root/EyeBone/MainControl.R/B1-1.R/B1-2.R/BClaw.R/shepard.R/shepardR.R/shepardR.R_end
+        weight: 1
+      - path: Eye_1
+        weight: 1
+      - path: Eye_2
+        weight: 1
+      - path: EyeBody
+        weight: 1
+      - path: Tail
+        weight: 1
+      - path: Wing_L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
